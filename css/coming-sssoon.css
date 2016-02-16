@@ -925,9 +925,3 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     }
 
 }
-
-button.btn.btn-danger.btn-fill {
-    float: right;
-    top: 20px;
-right 10px;
-}
